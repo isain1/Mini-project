@@ -1,0 +1,71 @@
+body {
+    background-color: cyan;
+}
+
+header {
+    display: block;
+    background-color: coral;
+    opacity: .85;
+    position: sticky;
+    top: 0;
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    display:block;
+}
+
+div {
+    display:block;
+}
+
+img {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    border: 25px solid black;
+}
+
+figcaption{
+    text-align: center;
+}
+
+#github{
+    display: inline;
+    color: black;
+}
+
+#portfolio {
+    display: inline;
+    color: black;
+}
+
+#contactme {
+    display: inline;
+    color: black;
+}
+
+footer {
+    background-color: coral;
+    opacity: .85;
+    position: static;
+    bottom: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+form{
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: dotted black;
+}
+section {
+    background-color: grey;
+    text-align: center;
+    border: solid black;
+}
